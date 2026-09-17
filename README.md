@@ -37,5 +37,31 @@ OMR-compatible answer sheet generation
 📄 License
 
 MIT License
+
+
 output:
-[ques_paper_gen_output.docx](https://github.com/user-attachments/files/32342036/ques_paper_gen_output.docx)
+
+
+<img width="1360" height="759" alt="Image" src="https://github.com/user-attachments/assets/c5e4cbd7-ef01-45a8-b453-36ba859389b8" />
+
+<img width="1359" height="723" alt="Image" src="https://github.com/user-attachments/assets/b6376822-f0ce-4b20-bc24-64a113e91920" />
+
+<img width="1359" height="723" alt="Image" src="https://github.com/user-attachments/assets/5d6dea71-97dc-4f3c-be26-601a6aa01d09" />
+
+<img width="1360" height="721" alt="Image" src="https://github.com/user-attachments/assets/4cad245e-2984-4fcc-a5da-03b52936c1b3" />
+
+<img width="1360" height="708" alt="Image" src="https://github.com/user-attachments/assets/912b3e21-17f1-4a8d-b303-9858d1fe1fbb" />
+
+<img width="1360" height="767" alt="Image" src="https://github.com/user-attachments/assets/3398bb86-08cf-4c62-b4a5-f466c38271d1" />
+
+<img width="1360" height="763" alt="Image" src="https://github.com/user-attachments/assets/496a282a-dcdd-4f3e-bff7-8510b1cd1ff2" />
+
+<img width="1359" height="765" alt="Image" src="https://github.com/user-attachments/assets/b1861d69-5ec4-40db-9fbe-bb2b43ed5eae" />
+
+<img width="1360" height="768" alt="Image" src="https://github.com/user-attachments/assets/29cf8512-f0e4-4f4c-bd36-6b6f7ba71a4b" />
+
+<img width="1360" height="634" alt="Image" src="https://github.com/user-attachments/assets/e5ff4f90-3058-400a-8936-516cd5d1b882" />
+
+<img width="1360" height="765" alt="Image" src="https://github.com/user-attachments/assets/b4450abb-499c-45a5-beea-38cc7cf43672" />
+
+<img width="1360" height="763" alt="Image" src="https://github.com/user-attachments/assets/95ed814b-f293-49ba-b7b0-bb3c6c8d8db5" />
